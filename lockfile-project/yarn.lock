@@ -71,10 +71,10 @@ acorn@^6.0.2:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.1.0.tgz#b0a3be31752c97a0f7013c5f4903b71a05db6818"
   integrity sha512-MW/FjM+IvU9CgBzjO3UIPCE2pyEwUsoFl+VGdczOPEdxfGFjuKny/gN54mOuX7Qxmb9Rg9MCn2oKiSUeW+pjrw==
 
-adm-zip@0.4.7:
-  version "0.4.7"
-  resolved "https://registry.yarnpkg.com/adm-zip/-/adm-zip-0.4.7.tgz#8606c2cbf1c426ce8c8ec00174447fd49b6eafc1"
-  integrity sha1-hgbCy/HEJs6MjsABdER/1Jtur8E=
+adm-zip@0.5.10:
+  version "0.5.10"
+  resolved "https://registry.yarnpkg.com/adm-zip/-/adm-zip-0.5.10.tgz#4a51d5ab544b1f5ce51e1b9043139b639afff45b"
+  integrity sha512-x0HvcHqVJNTPk/Bw8JbLWlWoo6Wwnsug0fnYYro1HBrjxZ3G7/AZk7Ahv8JwDe1uIcz8eBqvu86FuF1POiG7vQ==
 
 amdefine@>=0.0.4:
   version "1.0.1"
